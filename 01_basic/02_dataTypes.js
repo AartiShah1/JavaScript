@@ -21,7 +21,7 @@ symbol-unique
 */
 
 // Object
-console.log(typeof "Aarti");               //you can know typeof variable
+console.log(typeof "Aarti");               //you can know typeof variable,value
 console.log(typeof 15);
 console.log(typeof age);
 console.log(typeof isLoggedIn);
